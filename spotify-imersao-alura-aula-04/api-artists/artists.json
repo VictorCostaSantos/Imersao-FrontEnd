@@ -1,0 +1,148 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Foo Fighters",
+      "genre": "Rock",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15"
+    },
+    {
+      "id": 2,
+      "name": "Michael Jackson",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa"
+    },
+    {
+      "id": 3,
+      "name": "Emicida",
+      "genre": "Hip Hop",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174908b4b4bc90e1518b68b4068"
+    },
+    {
+      "id": 4,
+      "name": "Chitãozinho e Xororó",
+      "genre": "Sertanejo",
+      "urlImg": "https://i.scdn.co/image/ab676161000051744606c59411c57f7b49588be4"
+    },
+    {
+      "id": 5,
+      "name": "Mc Coringa",
+      "genre": "Funk",
+      "urlImg": "https://i.scdn.co/image/ab67616d00001e02fe8f6dd361ad0f12b88c7f56"
+    },
+    {
+      "id": 6,
+      "name": "Arlindo Cruz",
+      "genre": "Samba",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174181873f93056642d7b340839"
+    },
+    {
+      "id": 7,
+      "name": "Caetano Veloso",
+      "genre": "MPB",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757"
+    },
+    {
+      "id": 8,
+      "name": "Adele",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab6761610000517430e46498be76d7ab18b348cd"
+    },
+    {
+      "id": 9,
+      "name": "Coldplay",
+      "genre": "Alternative",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174e818688d8f0af83c6c3e9279"
+    },
+    {
+      "id": 10,
+      "name": "Beyoncé",
+      "genre": "R&B",
+      "urlImg": "https://i.scdn.co/image/ab676161000051743cf52a7a6ef15e3b537a07c2"
+    },
+    {
+      "id": 11,
+      "name": "Eminem",
+      "genre": "Hip Hop",
+      "urlImg": "https://i.scdn.co/image/ab676161000051749d6a8ed3f74e66c7e06392b1"
+    },
+    {
+      "id": 12,
+      "name": "Maroon 5",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab676161000051740ae969ddc69cd4b3e8a5e843"
+    },
+    {
+      "id": 13,
+      "name": "Rihanna",
+      "genre": "R&B",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174a7db15f7f593a55a2a59c49c"
+    },
+    {
+      "id": 14,
+      "name": "Queen",
+      "genre": "Rock",
+      "urlImg": "https://i.scdn.co/image/ab676161000051744c5b227c69f1536e6dd18d3e"
+    },
+    {
+      "id": 15,
+      "name": "Anitta",
+      "genre": "Funk",
+      "urlImg": "https://i.scdn.co/image/ab6761610000517460a142762a99e6a53dfbfb89"
+    },
+    {
+      "id": 16,
+      "name": "Sia",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174f4f4dd6f6d15e436e8005272"
+    },
+    {
+      "id": 17,
+      "name": "Tim Maia",
+      "genre": "Soul",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174b52a5aa7a2b0374b6fe75fe9"
+    },
+    {
+      "id": 18,
+      "name": "Jay-Z",
+      "genre": "Hip Hop",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174aa9c815bb34b70f642efaf25"
+    },
+    {
+      "id": 19,
+      "name": "Ariana Grande",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174087cf40f1934e01a67be4a08"
+    },
+    {
+      "id": 20,
+      "name": "Elton John",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174e9788f4dd3a7a5a31e10865a"
+    },
+    {
+      "id": 107,
+      "name": "Kanye West",
+      "genre": "Hip Hop",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174e3243c4a7b2efaec3a77d85d"
+    },
+    {
+      "id": 108,
+      "name": "Shakira",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab676161000051748e0cf0082f6d1b1952d746a6"
+    },
+    {
+      "id": 109,
+      "name": "The Weeknd",
+      "genre": "R&B",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174b69e56d5480b20e9fb2e9f9b"
+    },
+    {
+      "id": 110,
+      "name": "Ed Sheeran",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174a17e0d911ee228023a5a96e9"
+    }
+  ]
+}
